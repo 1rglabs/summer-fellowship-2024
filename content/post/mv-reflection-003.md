@@ -45,6 +45,8 @@ Here goes:
 1) [Switching to Obsidian](https://cosocial.ca/@mveytsman/112751323391640516) is already helping, as I wrote this in Obsidian and feel like it's a better medium for this kind of writing than both Noteplan or markdown in vscode for the blog
 2) Practice I guess!
 
+**Peer Review**: [https://github.com/1rglabs/summer-fellowship-2024/pull/13](https://github.com/1rglabs/summer-fellowship-2024/pull/13)
+
 ---
 [^1]: His website includes a testimonial from [Sasha Chapin](https://sashachapin.substack.com) who Xavier and I were discussing just yesterday. Small world!
 [^2]: Who's interview in [Founders at Work](http://www.foundersatwork.com/) I just read yesterday. Maybe this "small world" is in fact a bubble?!
